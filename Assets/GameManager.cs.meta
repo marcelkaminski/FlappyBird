@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 214d8ada252dd0d4498ca6a99d9bb72a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameOverCanvas: {fileID: 2987319782747343463, guid: 7fe626afdba7f764e8201ed990ae8038,
+      type: 3}
+  - playStateCanvas: {fileID: 7876877268194505083, guid: de6947bf0ba029a4097442bd7b595e2b,
+      type: 3}
+  - startStateCanvas: {fileID: 3476882729765118592, guid: 7ae20bf7795c70440b5d3aeec2e4737c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
